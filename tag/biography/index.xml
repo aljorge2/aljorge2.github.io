@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Biography | Annika Jorgensen</title>
+    <link>https://annikajorgensen.com/tag/biography/</link>
+      <atom:link href="https://annikajorgensen.com/tag/biography/index.xml" rel="self" type="application/rss+xml" />
+    <description>Biography</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://annikajorgensen.com/media/icon_hubd2b4a490626b4f0e3f5c085b4f533d7_32222_512x512_fill_lanczos_center_3.png</url>
+      <title>Biography</title>
+      <link>https://annikajorgensen.com/tag/biography/</link>
+    </image>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://annikajorgensen.com/post/getting-started/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;p&gt;Hello&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
