@@ -33,16 +33,6 @@
     </item>
     
     <item>
-      <title>About Me</title>
-      <link>https://annikajorgensen.com/post/getting-started/</link>
-      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://annikajorgensen.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Hello&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Teaching Portfolio</title>
       <link>https://annikajorgensen.com/project/portfolio/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
@@ -96,6 +86,26 @@
 &lt;h2 id=&#34;materials-demonstrating-student-learning&#34; style=&#34;color: #F76497&#34;&gt;Materials Demonstrating Student Learning&lt;/h2&gt;
 &lt;h2 id=&#34;professional-developement&#34; style=&#34;color: #F76497&#34;&gt;Professional Developement&lt;/h2&gt;
 &lt;h2 id=&#34;diversity-statement&#34; style=&#34;color: #F76497&#34;&gt;Diversity Statement&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://annikajorgensen.com/post/getting-started/</link>
+      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/post/getting-started/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Resume&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Resume&lt;/h1&gt;
+    &lt;object data=&#34;resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;900px&#34;&gt;
+      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/resume2.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+    &lt;/object&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
 </description>
     </item>
     
