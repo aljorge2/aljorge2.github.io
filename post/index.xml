@@ -5,22 +5,12 @@
     <link>https://annikajorgensen.com/post/</link>
       <atom:link href="https://annikajorgensen.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 12 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://annikajorgensen.com/media/icon_hubd2b4a490626b4f0e3f5c085b4f533d7_32222_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://annikajorgensen.com/post/</link>
     </image>
-    
-    <item>
-      <title>About Me</title>
-      <link>https://annikajorgensen.com/post/getting-started/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://annikajorgensen.com/post/getting-started/</guid>
-      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
-&lt;p&gt;Hello&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Writing technical content in Markdown</title>
@@ -126,7 +116,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-321986547&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-745893621&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -136,7 +126,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-321986547&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-745893621&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();

@@ -10,43 +10,23 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://annikajorgensen.com/post/getting-started/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/tag/academic/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/category/author/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/tag/biography/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/category/biography/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/categories/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/tag/dea/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/post/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <loc>https://annikajorgensen.com/tag/portfolio/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://annikajorgensen.com/project/</loc>
-    <lastmod>2023-10-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://annikajorgensen.com/tags/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://annikajorgensen.com/project/portfolio/</loc>
+    <lastmod>2023-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://annikajorgensen.com/tag/dea/</loc>
     <lastmod>2023-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -56,6 +36,10 @@
   </url><url>
     <loc>https://annikajorgensen.com/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://annikajorgensen.com/post/</loc>
+    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://annikajorgensen.com/post/writing-technical-content/</loc>
@@ -94,14 +78,6 @@
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://annikajorgensen.com/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://annikajorgensen.com/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://annikajorgensen.com/publication/journal-article/</loc>
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -116,6 +92,9 @@
   </url><url>
     <loc>https://annikajorgensen.com/publication-type/paper-conference/</loc>
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://annikajorgensen.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
