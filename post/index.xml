@@ -5,32 +5,12 @@
     <link>https://annikajorgensen.com/post/</link>
       <atom:link href="https://annikajorgensen.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 19 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>https://annikajorgensen.com/media/icon_hubd2b4a490626b4f0e3f5c085b4f533d7_32222_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://annikajorgensen.com/post/</link>
     </image>
-    
-    <item>
-      <title>Resume</title>
-      <link>https://annikajorgensen.com/post/getting-started/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://annikajorgensen.com/post/getting-started/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Resume&lt;/title&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;h1&gt;Resume&lt;/h1&gt;
-    &lt;object data=&#34;resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;900px&#34;&gt;
-      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/resume2.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
-    &lt;/object&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

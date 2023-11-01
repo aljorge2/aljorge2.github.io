@@ -70,26 +70,6 @@
     </item>
     
     <item>
-      <title>Resume</title>
-      <link>https://annikajorgensen.com/post/getting-started/</link>
-      <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
-      <guid>https://annikajorgensen.com/post/getting-started/</guid>
-      <description>&lt;!DOCTYPE html&gt;
-&lt;html&gt;
-  &lt;head&gt;
-    &lt;title&gt;Resume&lt;/title&gt;
-  &lt;/head&gt;
-  &lt;body&gt;
-    &lt;h1&gt;Resume&lt;/h1&gt;
-    &lt;object data=&#34;resume.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;900px&#34;&gt;
-      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/resume2.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
-    &lt;/object&gt;
-  &lt;/body&gt;
-&lt;/html&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Viral-mediated Hepatocellular Carcinoma</title>
       <link>https://annikajorgensen.com/project/example/</link>
       <pubDate>Thu, 19 Oct 2023 00:00:00 +0000</pubDate>
