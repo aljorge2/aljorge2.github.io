@@ -142,6 +142,46 @@
     </item>
     
     <item>
+      <title>Data Analysis with Pandas</title>
+      <link>https://annikajorgensen.com/certificates/example/</link>
+      <pubDate>Mon, 20 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/certificates/example/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Certificate&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Certificate&lt;/h1&gt;
+    &lt;object data=&#34;/uploads/DataAnalysisWithPandas.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;450px&#34;&gt;
+      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/DataAnalysisWithPandas.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+    &lt;/object&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Build a Medical Diagnosis Bot with Python</title>
+      <link>https://annikajorgensen.com/certificates/bot/</link>
+      <pubDate>Sun, 19 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/certificates/bot/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Certificate&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Certificate&lt;/h1&gt;
+    &lt;object data=&#34;/uploads/MedicalDiagnosisBot.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;450px&#34;&gt;
+      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/MedicalDiagnosisBot.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+    &lt;/object&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Teaching Portfolio</title>
       <link>https://annikajorgensen.com/project/portfolio/</link>
       <pubDate>Tue, 24 Oct 2023 00:00:00 +0000</pubDate>
