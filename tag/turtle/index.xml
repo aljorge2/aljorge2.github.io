@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>turtle | Annika Jorgensen</title>
+    <link>https://annikajorgensen.com/tag/turtle/</link>
+      <atom:link href="https://annikajorgensen.com/tag/turtle/index.xml" rel="self" type="application/rss+xml" />
+    <description>turtle</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 18 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://annikajorgensen.com/media/icon_hubd2b4a490626b4f0e3f5c085b4f533d7_32222_512x512_fill_lanczos_center_3.png</url>
+      <title>turtle</title>
+      <link>https://annikajorgensen.com/tag/turtle/</link>
+    </image>
+    
+    <item>
+      <title>Python Turtle Mini-Projects</title>
+      <link>https://annikajorgensen.com/certificates/miniturtle/</link>
+      <pubDate>Sat, 18 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/certificates/miniturtle/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Certificate&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Certificate&lt;/h1&gt;
+    &lt;object data=&#34;/uploads/PythonTurtleMiniProjects.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;450px&#34;&gt;
+      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/PythonTurtleMiniProjects.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+    &lt;/object&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Intro to Coding with Python Turtle</title>
+      <link>https://annikajorgensen.com/certificates/introturtle/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://annikajorgensen.com/certificates/introturtle/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+  &lt;head&gt;
+    &lt;title&gt;Certificate&lt;/title&gt;
+  &lt;/head&gt;
+  &lt;body&gt;
+    &lt;h1&gt;Certificate&lt;/h1&gt;
+    &lt;object data=&#34;/uploads/IntroPythonTurtle.pdf&#34; type=&#34;application/pdf&#34; width=&#34;100%&#34; height=&#34;450px&#34;&gt;
+      &lt;p&gt;Unable to display PDF file. &lt;a href=&#34;https://annikajorgensen.com/uploads/IntroPythonTurtle.pdf&#34;&gt;Download&lt;/a&gt; instead.&lt;/p&gt;
+    &lt;/object&gt;
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
